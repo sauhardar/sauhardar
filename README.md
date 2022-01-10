@@ -1,7 +1,6 @@
-## Hi there 👋
+### Hi there 👋
 
-### 🎓 CS + Econ - Northeastern University
-### 🔜 Glean 🚀 - Palo Alto, CA
+Currently: 🎓 CS + Econ - Northeastern University. Soon: Glean 🚀 - Palo Alto, CA
 
 <!--
 **sauhardar/sauhardar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
