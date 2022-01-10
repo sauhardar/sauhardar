@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there ✌🏽
 
 Currently: 🎓 CS + Econ - Northeastern University. Soon: Glean 🚀 - Palo Alto, CA
 
